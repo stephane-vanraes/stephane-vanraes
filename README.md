@@ -9,8 +9,7 @@
 
 I'm a Bergen based frontend developer focusing on Svelte.  Making examples, writing articles and experimenting with the strangest combinations.
 
-- 🔭 I’m currently working on making a guide of converting a React project to Svelte
-- 🌱 I’m currently learning React and Typescript
+- 🔭 I’m currently working on a series of excisting Svelte projects
 - 👯 I’m looking to collaborate on a charitable project
 - 🤔 I’m looking for help with site redesign
 - 💬 Ask me about Svelte and CSS
